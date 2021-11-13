@@ -1,7 +1,7 @@
-# hackutd VIII
- Github repo for Hack UTD VIII
+# *title tbd*
+
 ## Objective
-> Title is a mobile app to guide students to and from different buildings in an easy, straightforward manner
+> *title* is a mobile app to guide students to and from different buildings in an easy, straightforward manner
 
 ## Minimum Viable Product (MVP)
 - Users can designate a destination building to navigate towards
